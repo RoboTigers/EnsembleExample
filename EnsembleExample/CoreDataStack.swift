@@ -6,6 +6,9 @@
 //  Copyright © 2015 CloudKitSpace. All rights reserved.
 //
 
+// Some changes here for Swift 3 latest version will be submitted as Pull Request to orig git project
+// but for now we want to create a new project and use this as base for our own internal playing.
+
 import UIKit
 import CoreData
 import Ensembles
